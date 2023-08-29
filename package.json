@@ -16,13 +16,13 @@
     "type": "git",
     "url": "git+https://github.com/khulnasoft-lab/edgehub.git"
   },
-  "author": "Thomas Durieux",
+  "author": "Md Sulaiman",
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/khulnasoft-lab/edgehub/issues"
   },
   "funding": {
-    "url": "https://github.com/sponsors/tdurieux"
+    "url": "https://github.com/sponsors/sulaiman-coder"
   },
   "homepage": "https://github.com/khulnasoft-lab/edgehub#readme",
   "files": [
