@@ -32,7 +32,7 @@
   "dependencies": {
     "@aws-sdk/client-s3": "^3.374.0",
     "@aws-sdk/node-http-handler": "^3.374.0",
-    "@octokit/oauth-app": "^6.0.0",
+    "@octokit/oauth-app": "^7.0.0",
     "@octokit/plugin-paginate-rest": "^8.0.0",
     "@octokit/rest": "^20.0.1",
     "@pm2/io": "^5.0.0",
